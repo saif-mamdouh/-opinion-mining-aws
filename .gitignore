@@ -1,0 +1,11 @@
+final_adapter/
+miniconda3/
+venv/
+tmp/
+*.safetensors
+*.bin
+__pycache__/
+*.pyc
+app.log
+monitor.log
+nohup.out
