@@ -8,5 +8,5 @@ http://ec2-3-92-59-253.compute-1.amazonaws.com:7860
 ## Architecture
 - Model: LLaMA 3.2-3B + LoRA adapter (trained on Kaggle)
 - Storage: AWS S3 (model artifacts)
-- Compute: AWS EC2 t3.large
+- Compute: AWS EC2 t3.xlarge
 - Monitoring: AWS CloudWatch
